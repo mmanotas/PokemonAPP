@@ -8,7 +8,8 @@ package logica;
 public class PokemonAPP {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+       Pickachu p = new Pickachu();       
+       p.atacarPunoTrueno();
     }
     
 }
